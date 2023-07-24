@@ -1,0 +1,12 @@
+/Users/kaweel/Develop/kaweel/try-dotnet-7-sln/MathOperationLibraries/bin/Debug/net7.0/MathOperationLibraries.deps.json
+/Users/kaweel/Develop/kaweel/try-dotnet-7-sln/MathOperationLibraries/bin/Debug/net7.0/MathOperationLibraries.dll
+/Users/kaweel/Develop/kaweel/try-dotnet-7-sln/MathOperationLibraries/bin/Debug/net7.0/MathOperationLibraries.pdb
+/Users/kaweel/Develop/kaweel/try-dotnet-7-sln/MathOperationLibraries/obj/Debug/net7.0/MathOperationLibraries.csproj.AssemblyReference.cache
+/Users/kaweel/Develop/kaweel/try-dotnet-7-sln/MathOperationLibraries/obj/Debug/net7.0/MathOperationLibraries.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kaweel/Develop/kaweel/try-dotnet-7-sln/MathOperationLibraries/obj/Debug/net7.0/MathOperationLibraries.AssemblyInfoInputs.cache
+/Users/kaweel/Develop/kaweel/try-dotnet-7-sln/MathOperationLibraries/obj/Debug/net7.0/MathOperationLibraries.AssemblyInfo.cs
+/Users/kaweel/Develop/kaweel/try-dotnet-7-sln/MathOperationLibraries/obj/Debug/net7.0/MathOperationLibraries.csproj.CoreCompileInputs.cache
+/Users/kaweel/Develop/kaweel/try-dotnet-7-sln/MathOperationLibraries/obj/Debug/net7.0/MathOperationLibraries.dll
+/Users/kaweel/Develop/kaweel/try-dotnet-7-sln/MathOperationLibraries/obj/Debug/net7.0/refint/MathOperationLibraries.dll
+/Users/kaweel/Develop/kaweel/try-dotnet-7-sln/MathOperationLibraries/obj/Debug/net7.0/MathOperationLibraries.pdb
+/Users/kaweel/Develop/kaweel/try-dotnet-7-sln/MathOperationLibraries/obj/Debug/net7.0/ref/MathOperationLibraries.dll
