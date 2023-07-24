@@ -15,4 +15,3 @@ dotnet new sln -n TrySolution
 dotnet sln add FizzBuzz/FizzBuzz.csproj
 dotnet sln add MathOperationLibraries/MathOperationLibraries.csproj
 dotnet add MathOperationLibraries/MathOperationLibraries.csproj reference FizzBuzz/FizzBuzz.csproj
-
